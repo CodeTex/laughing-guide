@@ -35,3 +35,5 @@ import combine_rust_and_python as crp
 crp.sum_as_string(1,2)
 '3'
 ```
+
+For a mixed Python-Rust package follow: <https://www.maturin.rs/project_layout#mixed-rustpython-project>
